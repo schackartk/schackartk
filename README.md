@@ -1,27 +1,44 @@
 ## Hi, I'm Kenneth Schackart. Welcome to my GitHub!
 
-### Professional Information:
+### I am a
 
-* Ph.D. Student in Biosystems Engineering
-* Computational Biology Trainee
-* Research in Sensors and Biosensors
+🎓 Ph.D. Student in Biosystems Engineering
+
+💻 Computational Biology Trainee
+
+🌡️ Sensors and Biosensors Researcher
+
+🎇 Project Enthusiast
+
+<br />
+<br />
 
 ### What you'll find here
 
 #### My fun projects, such as:
 
-🤖 [A reddit bot, smart because of machine learning](https://github.com/schackartk/tonkotsu_cop_bot)
+🤖 [A reddit bot, made smart by machine learning](https://github.com/schackartk/tonkotsu_cop_bot)
 
-🚙 [A way to visualize Google Maps contributions](https://github.com/schackartk/google_mapper)
+🌏 [A way to visualize Google Maps contributions](https://github.com/schackartk/google_mapper)
+
+📅 [A few #tidytuesday contributions](https://github.com/schackartk/student_loans)
+
+<br />
 
 #### Stuff from coursework:
 
-🐍 [Biosystem analytics homework](https://github.com/schackartk/biosys-analytics)
+🐍 [Biosystem analytics scripts](https://github.com/schackartk/biosys-analytics)
 
-9️⃣ [A sudoku game in Python as final project for biosystem analytics](https://github.com/schackartk/Sudoku)
+9️⃣ [A sudoku game in Python as final project](https://github.com/schackartk/Sudoku)
 
 📈 [Mathematical modeling final project](https://github.com/schackartk/MATH585)
 
+<br />
+
+#### My data analysis scripts (once I publish!)
+
+<br />
+---
 
 ### Connect with me:
 
