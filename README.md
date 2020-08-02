@@ -5,8 +5,8 @@
 ### Connect with me:
 
 [<img align="left" alt="schackartk | Twitter" width="22px" img src="assets/twitter.png" /> ][twitter]
-[<img align="center" alt="schackartk | LinkedIn" width="22px" img src="assets/linkedin.png" />][linkedin]
-[<img align="center" alt="schackartk | Gmail" width="22px" img src="assets/gmail.png" />][gmail]
+[<img align="left" alt="schackartk | LinkedIn" width="22px" img src="assets/linkedin.png" />][linkedin]
+[<img align="left" alt="schackartk | Gmail" width="22px" img src="assets/gmail.png" />][gmail]
 
 <br />
 <br />
