@@ -1,4 +1,4 @@
-## Hi, I'm Kenneth Schackart. Welcome to my GitHub!
+# Hi, I'm Kenneth Schackart. Welcome to my GitHub!
 
 ### I am a
 
