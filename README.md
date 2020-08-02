@@ -38,8 +38,7 @@
 #### My data analysis scripts (once I publish!)
 
 <br />
-
----
+<br />
 
 ### Connect with me:
 
