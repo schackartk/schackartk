@@ -55,6 +55,6 @@
 <img align = left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schackartk&hide_border=true&theme=vue" />
 
 [twitter]: https://twitter.com/schackartk
-[linkedin]: https://linkedin.com/in/schackartk
+[linkedin]: https://linkedin.com/in/kschackart
 [gmail]: mailto:schackartk1@gmail.com
 [training_grant]: https://cmmbs.arizona.edu/
