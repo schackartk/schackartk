@@ -8,7 +8,7 @@
 
 🌡️ Sensors and Biosensors Researcher
 
-🎇 Project Enthusiast
+🎇 Avid Hobbyist
 
 <br />
 <br />
