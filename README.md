@@ -52,8 +52,7 @@
 ### See my other contributions:
 
 [<img align="left" alt="schackartk | protocols.io" width="22px" img src="https://github.com/schackartk/schackartk/raw/master/assets/protocols.png" />][protocols.io]
-
-[<img align="left" alt="schackartk | ORCID iD" width="22px" img src="https://github.com/schackartk/schackartk/raw/master/assets/orcid.png" />][ORCID iD]
+[<img align="left" alt="schackartk | ORCID iD" width="22px" img src="https://github.com/schackartk/schackartk/raw/master/assets/orcid.png" />][orcid]
 
 <br />
 <br />
