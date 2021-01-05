@@ -49,6 +49,12 @@
 <br />
 <br />
 
+### See my other contributions
+
+[<img align="left" alt="schackartk | protocols.io" width="22px" img src="https://github.com/schackartk/schackartk/raw/master/assets/protocols.png" />][protocols.io]
+
+<br />
+<br />
 ---
 
 <img align="left" alt="schackartk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=schackartk&show_icons=true&hide_border=true&theme=vue&count_private=true" />
@@ -58,3 +64,4 @@
 [linkedin]: https://linkedin.com/in/kschackart
 [gmail]: mailto:schackartk1@gmail.com
 [training_grant]: https://cmmbs.arizona.edu/
+[protocols.io]: https://www.protocols.io/researchers/kenneth-schackart/protocols
