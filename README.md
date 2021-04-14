@@ -6,7 +6,7 @@
 
 💻 Computational Biology Trainee
 
-🌡️ Sensors and Biosensors Researcher
+🌡️ Computational Metagenomics Researcher
 
 🎇 Avid Hobbyist
 
