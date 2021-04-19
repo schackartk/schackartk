@@ -59,8 +59,8 @@
 
 ---
 
-<img align="left" alt="schackartk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=schackartk&show_icons=true&hide_border=true&theme=vue&count_private=true" />
-<img align = left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schackartk&hide_border=true&theme=vue" />
+<img align="left" alt="schackartk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=schackartk&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
+<img align = left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schackartk&hide_border=true&theme=chartreuse-dark" />
 
 [twitter]: https://twitter.com/schackartk
 [linkedin]: https://linkedin.com/in/kschackart
