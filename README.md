@@ -4,7 +4,7 @@
 
 🎓 Ph.D. Candidate in Biosystems Engineering
 
-🌡️ Computational Metagenomics Researcher
+💻 Computational Metagenomics Researcher
 
 🎇 Avid Hobbyist
 
