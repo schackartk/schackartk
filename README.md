@@ -2,9 +2,7 @@
 
 ### I am a
 
-🎓 Ph.D. Student in Biosystems Engineering
-
-💻 Computational Biology Trainee
+🎓 Ph.D. Candidate in Biosystems Engineering
 
 🌡️ Computational Metagenomics Researcher
 
