@@ -6,7 +6,7 @@
 
 💻 Computational Metagenomics Researcher
 
-🎇 Avid Hobbyist
+🎇 Programming Hobbyist
 
 <br />
 <br />
