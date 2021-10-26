@@ -19,7 +19,7 @@
 
 🌏 [A way to visualize Google Maps contributions](https://github.com/schackartk/google_mapper)
 
-📅 [A few #tidytuesday contributions](https://github.com/schackartk/student_loans)
+:mag: [A deep, intuitive dive into PCA](https://schackartk.github.io/exploring_algorithms/)
 
 <br />
 
