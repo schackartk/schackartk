@@ -4,14 +4,18 @@
 
 🎓 Ph.D. Candidate in Biosystems Engineering
 
-💻 Computational Metagenomics Researcher
-
-🎇 Programming Hobbyist
+💻 Computational Metagenomics, ML, and NLP Researcher
 
 <br />
 <br />
 
 ### What you'll find here
+
+#### Research projects
+
+[Biodata Resource Inventory NLP Project](https://github.com/schackartk/inventory_2022/tree/inventory_2022_dev)
+
+<br />
 
 #### My fun projects, such as:
 
@@ -30,10 +34,6 @@
 9️⃣ [A sudoku game in Python as final project](https://github.com/schackartk/Sudoku)
 
 📈 [Mathematical modeling final project](https://github.com/schackartk/MATH585)
-
-<br />
-
-#### My data analysis scripts (once I publish!)
 
 <br />
 <br />
