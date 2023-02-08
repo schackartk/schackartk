@@ -2,9 +2,9 @@
 
 ### I am a
 
-🎓 Ph.D. Candidate in Biosystems Engineering
+🎓 Recent Ph.D. Graduate in Biosystems Engineering
 
-💻 Computational Metagenomics, ML, and NLP Researcher
+💻 ML, NLP, and Metagenomics Researcher
 
 <br />
 <br />
