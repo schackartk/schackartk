@@ -14,6 +14,7 @@
 #### Research projects
 
 [Biodata Resource Inventory NLP Project](https://github.com/schackartk/inventory_2022/tree/inventory_2022_dev)
+[A Replication study of a Math Modeling Paper](https://github.com/schackartk/t-junction_model_reporoduction)
 
 <br />
 
