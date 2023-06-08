@@ -1,8 +1,8 @@
-# Hi, I'm Kenneth Schackart. Welcome to my GitHub!
+# Hi, I'm Ken Schackart. Welcome to my GitHub!
 
 ### I am a
 
-🎓 Recent Ph.D. Graduate in Biosystems Engineering
+🎓 Ph.D. Graduate in Biosystems Engineering
 
 💻 ML, NLP, and Metagenomics Researcher
 
