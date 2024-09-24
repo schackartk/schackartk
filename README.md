@@ -4,7 +4,7 @@
 
 🤝 Senior Consultant at Booz Allen Hamilton
 
-👨‍⚕️ SETA Support at the ARPA-H
+👨‍⚕️ SETA Support at ARPA-H
 
 🎓 Ph.D. Graduate in Biosystems Engineering
 
