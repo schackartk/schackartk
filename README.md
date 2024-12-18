@@ -2,13 +2,13 @@
 
 ### I am a
 
-🤝 Senior Consultant at Booz Allen Hamilton
+🤝 Associate Consultant at Booz Allen Hamilton
 
 👨‍⚕️ SETA Support at ARPA-H
 
 🎓 Ph.D. Graduate in Biosystems Engineering
 
-💻 ML, NLP, and Metagenomics Researcher
+💻 ML, NLP, and Software Developer
 
 <br />
 <br />
